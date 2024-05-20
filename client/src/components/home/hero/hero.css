@@ -1,6 +1,7 @@
 .hero {
-  background-image: url('C:\Users\DELL\Desktop\House\client\public\images\image.png');
+  /* background-image: url('C:\Users\DELL\Desktop\House\client\public\images\image.png'); */
   background-repeat: no-repeat;
+  background-color: bisque;
   background-position: center;
   background-size: cover;
   height: 90vh;
